@@ -1,10 +1,10 @@
 {
     "name": "mock",
-    "version": "1.0.0",
     "description": "Lets you mock people for their dumb mistakes in chat.",
+    "version": "1.0.0",
+    "license": "LGPL v3",
 	"author": {
 		"name": "rem",
 		"id": "257109471589957632"
-	},
-    "license": "LGPL v3"
+	}
 }
